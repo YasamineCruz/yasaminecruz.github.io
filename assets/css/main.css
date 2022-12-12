@@ -2688,3 +2688,15 @@ input, select, textarea {
 		color: whitesmoke;
 		font-weight: bold;
 	}
+
+	.no-margin1 {
+		margin: 10px 0px 10px;
+	}
+
+	.no-margin {
+		margin: 0px;
+	}
+	
+	.no-margin2 {
+		margin: 20px 0px 50px;
+	}
