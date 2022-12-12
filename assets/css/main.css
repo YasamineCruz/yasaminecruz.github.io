@@ -2679,11 +2679,12 @@ input, select, textarea {
 		align-items: center;
 		height: 60px;
 		padding: 50px;
-		background-color: #a8dddb;
+		background-color: #9ececc;
 		margin: 5px;
 	}
 
 	.space{
 		margin-left: 10px;
 		color: whitesmoke;
+		font-weight: bold;
 	}
