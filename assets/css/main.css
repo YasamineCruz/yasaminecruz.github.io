@@ -2222,8 +2222,9 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: white;
+				color: white;
+				font-weight: bold;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2252,7 +2253,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/background2.jpg");
+				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.two {
@@ -2265,6 +2266,14 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			.bio-container {
+				display: flex;
+				flex-direction: row;
+				flex-wrap: wrap;
+				font-size: 26px;
+				line-height: 1.1em;
 			}
 
 /* Wide */
